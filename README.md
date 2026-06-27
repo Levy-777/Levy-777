@@ -84,9 +84,9 @@ fun_fact: I built an AI that reads 800+ resumes and ranks candidates better than
 |---|---------|-------------|-------------|-------|
 | 🤖 | **[Resume Parser Pipeline](https://github.com/Levy-777/Parser-de-Curriculo)** | End-to-end LLM pipeline that extracts structured JSON from PDF resumes using 3-layer parsing (text → markdown → OCR) | **800+ docs processed** | `Python` `Gemini API` `vLLM` `FastAPI` `Tesseract OCR` |
 | 🎯 | **Semantic Candidate Matching** | AI-powered recruitment system that ranks candidates using embeddings & cosine similarity, designed to democratize junior hiring | **713 technologies cataloged** | `SentenceTransformer` `scikit-learn` `Pandas` `Gemini API` |
-| 🫁 | **Pneumonia X-Ray Classifier** | Deep Learning CNN model for binary classification of medical chest X-rays (healthy vs. pneumonia) | **95% accuracy** on test set | `TensorFlow` `Keras` `OpenCV` `CNN` |
-| 🤖 | **DataPuppet MCP Server** | Production-ready MCP server extending AI agents with DuckDB queries and Playwright web scraping, with subprocess fault isolation | **4s → 0.2s** response time | `Python` `MCP` `DuckDB` `Playwright` `Pydantic` |
-| 🌊 | **Warden — Flood Prediction App** | Mobile app (TCC) using geolocation + weather APIs to send push alerts to at-risk residents | **3 APIs integrated** | `JavaScript` `PHP` `MySQL` `Firebase` `Cordova` |
+| 🫁 | **[Pneumonia X-Ray Classifier](https://github.com/Levy-777/cnn-raiox-pneumonia)** | Deep Learning CNN model for binary classification of medical chest X-rays (healthy vs. pneumonia) | **95% accuracy** on test set | `TensorFlow` `Keras` `OpenCV` `CNN` |
+| 🤖 | **[DataPuppet MCP Server](https://github.com/Levy-777/DataPuppet)** | Production-ready MCP server extending AI agents with DuckDB queries and Playwright web scraping, with subprocess fault isolation | **4s → 0.2s** response time | `Python` `MCP` `DuckDB` `Playwright` `Pydantic` |
+| 🌊 | **[Warden — Flood Prediction App](https://github.com/Levy-777/TCC-WardenAPP)** | Mobile app (TCC) using geolocation + weather APIs to send push alerts to at-risk residents | **3 APIs integrated** | `JavaScript` `PHP` `MySQL` `Firebase` `Cordova` |
 | 📊 | **Climate vs. Disasters Analysis** | Data Science study correlating CO₂ emissions, rainfall, and wildfires across São Paulo (2012–2022) | **Pearson r = −0.73** | `Python` `Pandas` `Power BI` `APIs` |
 
 ---
