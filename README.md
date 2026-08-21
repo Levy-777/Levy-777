@@ -94,8 +94,8 @@ fun_fact: I built an AI that reads 800+ resumes and ranks candidates better than
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Levy-777&theme=tokyonight&hide_border=true&border_radius=10" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levy-777&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Levy-777&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Levy-777&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" />
 </div>
 
 ---
